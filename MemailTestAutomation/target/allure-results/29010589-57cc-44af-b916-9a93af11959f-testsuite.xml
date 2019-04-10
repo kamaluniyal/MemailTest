@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554791882230" stop="1554791988365" version="1.4.17" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1554791925950" stop="1554791946384" status="passed">
+            <name>loginWithInvalidUser</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="NDADEVPC158"/>
+                <label name="thread" value="19508@NDADEVPC158.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554791946440" stop="1554791966801" status="passed">
+            <name>loginWithInvalidPassword</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="NDADEVPC158"/>
+                <label name="thread" value="19508@NDADEVPC158.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554791966823" stop="1554791987085" status="passed">
+            <name>loginWithCorrectCredentials</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="NDADEVPC158"/>
+                <label name="thread" value="19508@NDADEVPC158.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
